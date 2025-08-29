@@ -26,7 +26,7 @@
 
 ## 🔹 Connect with me
 - 📧 Email: ay01439170@gmail.com  
-- 💼 LinkedIn: [Anurag Yadav](#)  
+- 💼 LinkedIn: https://www.linkedin.com/in/anurag-yadav-7a59b0280/
 - 🐙 GitHub: [Your GitHub](https://github.com/Anuragyadav76)  
 
 
