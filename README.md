@@ -1,27 +1,21 @@
-# Hi there 👋, I'm Anurag Yadav  
+# Hello I'm Anurag Yadav  
 
-🚀 **B.Tech CSE Student | Aspiring Full Stack Developer | AI Enthusiast**  
+🚀 **B.Tech CSE Student |  Full Stack Developer |**
 
-💡 Passionate about learning programming, solving problems, and building impactful projects.  
-🌱 Currently exploring **Java, Python, DSA, Web Development, and AI**.  
-✨ Interested in Open Source and contributing to meaningful projects.  
+  
+🌱 Currently exploring **Java, Python, DSA, Web Develop**.  
 
 ---
 
 ## 🔹 Skills & Tools
-- **Languages**: Java, Python, C, HTML, CSS, JavaScript  
+- **Languages**: Java, Python, C, HTML, CSS  
 - **Core CS**: Data Structures & Algorithms  
 - **Web Development**: React, Node.js, Express, MongoDB (learning)  
 - **Others**: Git, GitHub, VS Code  
 
 ---
 
-## 🔹 Projects
-- 📌 [Project 1 Name](#) – short description (Tech used: …)  
-- 📌 [Project 2 Name](#) – short description (Tech used: …)  
-- 📌 [Project 3 Name](#) – short description (Tech used: …)  
 
----
 
 ## 🔹 GitHub Stats
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
@@ -31,8 +25,8 @@
 ---
 
 ## 🔹 Connect with me
-- 📧 Email: yourmail@example.com  
-- 💼 LinkedIn: [Your LinkedIn](#)  
-- 🐙 GitHub: [Your GitHub](https://github.com/YOUR_USERNAME)  
+- 📧 Email: ay01439170@gmail.com  
+- 💼 LinkedIn: [Anurag Yadav](#)  
+- 🐙 GitHub: [Your GitHub](https://github.com/Anuragyadav76)  
 
 
