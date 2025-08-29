@@ -13,18 +13,11 @@
 - **Web Development**: React, Node.js, Express, MongoDB (learning)  
 - **Others**: Git, GitHub, VS Code  
 
----
-
-
-
-## 🔹 GitHub Stats
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
 
 ---
 
 ## 🔹 Connect with me
+- 📞 Phone no: 7307724392
 - 📧 Email: ay01439170@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/anurag-yadav-7a59b0280/
 - 🐙 GitHub: [Your GitHub](https://github.com/Anuragyadav76)  
